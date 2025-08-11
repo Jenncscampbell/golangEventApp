@@ -1,0 +1,4 @@
+POST http://localhost:8080/events/1/register
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJleHAiOjE3NTQ4NjU5MjQsInVzZXJJRCI6MX0.6jyqCrZiJ_yp0QTdH1h7-Hwn7pqh3jQQiHXqZ3hjlm8
+
